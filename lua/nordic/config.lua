@@ -10,7 +10,7 @@ local defaults = {
     -- Enable italic comments.
     italic_comments = true,
     -- Enable general editor background transparency.
-    transparent_bg = false,
+    transparent_bg = true,
     -- Enable brighter float border.
     bright_border = false,
     -- Adjusts some colors to make the theme a bit nicer (imo).
